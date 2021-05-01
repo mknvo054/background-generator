@@ -1,0 +1,7 @@
+button.btn.btn-primary {
+  background-color: red;
+}
+
+button.btn.btn-primary:hover {
+  background-color: black;
+}
